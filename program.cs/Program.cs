@@ -9,8 +9,7 @@
 
 ["Russia", "Denmark", "Kazan"] -> []*/
 
-
-string[] str = { "1234", "1567", "-2", "computer science"};
+string[] str = { "hello", "2", "world", ":-)"};
 Console.WriteLine("Исходный массив строк: ");
 for (int i = 0; i < str.Length; i++)
 Console.Write(str[i] + " ");
@@ -20,6 +19,12 @@ string[] str2 = new string[str.Length];
 
 void SortFillNewString(string[] str, string[] str2)
 {
+    if(str.Length == 0)
+    {
+        Console.WriteLine("Задан пустой массив строк");
+    }
+    else
+    {
     int count = 0;
     bool flag = false;
     for (int i = 0; i < str.Length; i++)
@@ -35,6 +40,7 @@ void SortFillNewString(string[] str, string[] str2)
     {
     Console.WriteLine("В исходном массиве не обнаружены подходящие строки!");
     }
+    }
 }
 void PrintArray(string[] array)
 {
@@ -47,4 +53,5 @@ void PrintArray(string[] array)
 Console.WriteLine("Новый массив строк (длина строки<=3): ");
 SortFillNewString(str, str2);
 PrintArray(str2);
+
 

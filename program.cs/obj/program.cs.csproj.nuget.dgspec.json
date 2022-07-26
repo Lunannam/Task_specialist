@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ПК\\Desktop\\Task_Specialist\\program.cs\\program.cs.csproj": {}
+    "C:\\Users\\ПК\\Desktop\\Lunkova_Task_Specialist\\program.cs\\program.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ПК\\Desktop\\Task_Specialist\\program.cs\\program.cs.csproj": {
+    "C:\\Users\\ПК\\Desktop\\Lunkova_Task_Specialist\\program.cs\\program.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ПК\\Desktop\\Task_Specialist\\program.cs\\program.cs.csproj",
+        "projectUniqueName": "C:\\Users\\ПК\\Desktop\\Lunkova_Task_Specialist\\program.cs\\program.cs.csproj",
         "projectName": "program.cs",
-        "projectPath": "C:\\Users\\ПК\\Desktop\\Task_Specialist\\program.cs\\program.cs.csproj",
+        "projectPath": "C:\\Users\\ПК\\Desktop\\Lunkova_Task_Specialist\\program.cs\\program.cs.csproj",
         "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ПК\\Desktop\\Task_Specialist\\program.cs\\obj\\",
+        "outputPath": "C:\\Users\\ПК\\Desktop\\Lunkova_Task_Specialist\\program.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config"
